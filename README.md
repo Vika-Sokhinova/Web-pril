@@ -1,7 +1,7 @@
 # Web-pril 
 Протокол HTTP
 
--история
+-история 
 
 -HTTP транзакции: Request\Response
 
